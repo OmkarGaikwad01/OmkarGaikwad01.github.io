@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://omkargaikwad01.github.io/sitemap.xml
